@@ -1,0 +1,11 @@
+* { 
+	box-sizing: border-box;
+}
+body, ul, ol, dl {
+	margin: 0;
+}
+
+html, body{
+	height: 100%;
+	background-image:'url(./assets/bgMain.jpg)',
+}
